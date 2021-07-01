@@ -4,7 +4,7 @@
 #
 Name     : pyroute2.ethtool
 Version  : 0.6.4
-Release  : 3
+Release  : 4
 URL      : https://files.pythonhosted.org/packages/19/f2/62c8c2bd3647f04be348b8f74d15eafd616148d0ab662303a328893a6c96/pyroute2.ethtool-0.6.4.tar.gz
 Source0  : https://files.pythonhosted.org/packages/19/f2/62c8c2bd3647f04be348b8f74d15eafd616148d0ab662303a328893a6c96/pyroute2.ethtool-0.6.4.tar.gz
 Summary  : Python Netlink library: ethtool
